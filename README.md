@@ -1,6 +1,6 @@
 # Hello, dudes 👾
 
-I'm a backend developer and not only🙂‍↔️
+I'm a backend developer and not only🧏‍♂️
 
 Languages used🧑🏼‍💻:
 
