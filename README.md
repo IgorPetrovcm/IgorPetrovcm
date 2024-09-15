@@ -4,50 +4,34 @@ I'm a backend developer and not only🧏‍♂️
 
 Languages used🧑🏼‍💻:
 
-<div>
- <img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-</div>
+[![](https://skillicons.dev/icons?i=java,c,cs,python,bash)](https://skillicons.dev)
 
 ___
 
  Web technologies used:
 
-<div>
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-</div>
+ [![](https://skillicons.dev/icons?i=dotnet,fastapi)](https://skillicons.dev)
 
 ___
 
 DMBS used: 
 
-<div>
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-</div>
+[![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)](https://skillicons.dev)
+
+Message Brokers:
+
+[![](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
 
 ___
 OS used:
 
-<div>
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
-</div>
+[![](https://skillicons.dev/icons?i=arch,windows)](https://skillicons.dev)
 
 ___
 
 Other:
 
-<div>
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
- <img height=70 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-</div>
+[![](https://skillicons.dev/icons?i=git,linux,docker,obsidian)](https://skillicons.dev)
 
  ## My Stats
 
