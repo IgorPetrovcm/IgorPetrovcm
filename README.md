@@ -4,7 +4,7 @@ I'm a backend developer and not only🧏‍♂️
 
 Languages used🧑🏼‍💻:
 
-[![](https://skillicons.dev/icons?i=java,c,cs,python,bash)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,c,cs)](https://skillicons.dev)
 
 ___
 
